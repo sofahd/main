@@ -1,0 +1,12 @@
+{
+    "/":{
+        "num": 1,
+        "method": "GET",
+        "expected_status_code": 200
+    },
+    "/get":{
+        "num": 2,
+        "method": "GET",
+        "expected_status_code": 200
+    }
+}
