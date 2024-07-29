@@ -166,3 +166,7 @@ include/
 lib/
 lib64
 pyvenv.cfg
+work/
+*.zip
+logs/
+nmap_out.txt
