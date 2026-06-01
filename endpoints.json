@@ -4,7 +4,7 @@
         "method": "GET",
         "expected_status_code": 200
     },
-    "/get":{
+    "/versa/login":{
         "num": 2,
         "method": "GET",
         "expected_status_code": 200
